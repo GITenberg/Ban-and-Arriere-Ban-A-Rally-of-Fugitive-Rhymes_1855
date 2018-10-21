@@ -1,5 +1,5 @@
 _repo: Ban-and-Arriere-Ban-A-Rally-of-Fugitive-Rhymes_1855
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 1855-h/images/coverb.jpg
@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Poetry'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Dedication -- A Scot to Jeanne d'Arc -- How they held the Bass for
   King James -- Three portraits of Prince Charles -- From Omar Khayyam -- Aesop --
   Les Roses de Sadi -- The Haunted Tower -- Boat-song -- Lost Love -- The Promise
